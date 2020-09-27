@@ -9,6 +9,11 @@ In my daily life, I often use spotify to listen to music. So I decided to use sp
 
 ### Result
 
-1.![Tails: using speakers](https://github.com/GarveyMak123/Slave-to-the-Algorithm/blob/master/week%202/1.png)
-2.![Tails: repeat](https://github.com/GarveyMak123/Slave-to-the-Algorithm/blob/master/week%202/2.png)
-3.![]()
+1. Tails: using speakers
+![](https://github.com/GarveyMak123/Slave-to-the-Algorithm/blob/master/week%202/1.png)
+2. Tails: repeat
+![](https://github.com/GarveyMak123/Slave-to-the-Algorithm/blob/master/week%202/2.png)
+3. Side 16: click 16 times for the next song
+![](https://github.com/GarveyMak123/Slave-to-the-Algorithm/blob/master/week%202/4.png)
+4. The final song
+![](https://github.com/GarveyMak123/Slave-to-the-Algorithm/blob/master/week%202/3.png)
