@@ -119,4 +119,4 @@ void draw()
  
 }
 ```
-![]()
+![](https://github.com/GarveyMak123/Slave-to-the-Algorithm/blob/master/week%202/8.png)
