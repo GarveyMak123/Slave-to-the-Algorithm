@@ -36,7 +36,7 @@ https://www.youtube.com/watch?v=fL9SISHJ6z8
 ![](https://github.com/GarveyMak123/Slave-to-the-Algorithm/blob/master/week%204/WLGF_AI_Driven_Poster-Twitter.jpg)
 https://www.patrik-huebner.com/portfolio-item/the-pulse-a-real-time-living-brand/
 
-3. Based character-prototypes and chance to create intricate typographic poster designs. Created with code, built with created with Processing.
+3. Based character-prototypes and chance to create intricate typographic poster designs. Created with Processing.
 
 ![](https://github.com/GarveyMak123/Slave-to-the-Algorithm/blob/master/week%204/generativeShapeAnimationPoster-03-animated-02.gif)
 
