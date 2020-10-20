@@ -34,6 +34,7 @@ https://www.youtube.com/watch?v=fL9SISHJ6z8
 2. Pulse is a data-responsive graphic driven by real-time data from Twitter that responds to six themes under social conversations around women in leadership - Power, Success, Community, Diversity, Change, and Leadership. I think this work contributes significantly to the promotion of women's rights, and in work, the shapes and colors of the graphics change with the development of the themes and the mood of the subject matter to draw attention to those themes.
 
 ![](https://github.com/GarveyMak123/Slave-to-the-Algorithm/blob/master/week%204/WLGF_AI_Driven_Poster-Twitter.jpg)
+https://www.patrik-huebner.com/portfolio-item/the-pulse-a-real-time-living-brand/
 
 3. Based character-prototypes and chance to create intricate typographic poster designs. Created with code, built with created with Processing.
 
