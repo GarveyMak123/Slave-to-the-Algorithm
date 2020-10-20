@@ -1,3 +1,5 @@
+# WEEK 2
+***
 # 12 Hour Challenge
 ***
 In my daily life, I often use spotify to listen to music. So I decided to use spotify as my **12 Hour Challenge**.
