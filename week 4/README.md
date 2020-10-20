@@ -40,4 +40,5 @@ https://www.patrik-huebner.com/portfolio-item/the-pulse-a-real-time-living-brand
 
 ![](https://github.com/GarveyMak123/Slave-to-the-Algorithm/blob/master/week%204/generativeShapeAnimationPoster-03-animated-02.gif)
 
+
 Inspired by these works, I wanted my project to be data-driven or input some images, text, and finally output generative posters or tools for the graphic design field.
