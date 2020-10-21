@@ -6,7 +6,7 @@ Today's graphic designers are sometimes embarrassed by clients who don't underst
 My concept so far, has been vague and not specific enough. This week, to continue developing my ideas, I will continue to look at generative design uses in graphic design.
 
 ### Research
-1.Generative Covers
+1. Generative Covers
   
 Team:<br>
 Marcin Ignac / Variable concept + design + code<br>
@@ -20,7 +20,7 @@ The Polish NGO Center Cyfrowe contacted the Variable team to solve the problem o
 MIT Media Lab Identity is a stunning idea, a generative logo project that generates unique logos for each faculty, staff, and student. The logos all share the same style of shape and color and are instantly recognizable as part of the MIT Media Lab.<br>
 <img src="https://github.com/GarveyMak123/Slave-to-the-Algorithm/blob/master/week%205/1_FhyRuRd8t7wXWgcMmtOFvw.jpeg" width="50%" height="50%"><img src="https://github.com/GarveyMak123/Slave-to-the-Algorithm/blob/master/week%205/1_ewiIgjF42CkpShX_yjiGZA.jpeg" width="50%" height="50%">
 
-3. 《Generative Design is Doomed to Fail》Daniel Davis – 20 February 2020<br>
+3.《Generative Design is Doomed to Fail》Daniel Davis – 20 February 2020<br>
 https://www.danieldavis.com/generative-design-doomed-to-fail/<br>
 I found the article "Generative Design is Doomed to Fail" to be a cautionary tale after reading the article. Author Daniel Davis attacks the fact that generative design creates hundreds of different proposal options, which increases the time and cost of making comparisons and choices.
 
@@ -37,7 +37,7 @@ Wiki-footwear, which I discovered while wandering around the web, is a site that
 <img src="https://github.com/GarveyMak123/Slave-to-the-Algorithm/blob/master/week%205/Wiki-footwear1.png" width="50%" height="50%">
 <img src="https://github.com/GarveyMak123/Slave-to-the-Algorithm/blob/master/week%205/Wiki-footwear2.png" width="50%" height="50%"><img src="https://github.com/GarveyMak123/Slave-to-the-Algorithm/blob/master/week%205/Wiki-footwear3.png" width="50%" height="50%">
 
-2.Open Images Dataset
+2. Open Images Dataset
 
 Open Images Dataset is an example of an image search tool, such as typing in apples, and the result is an image containing apples. I think this tool is very useful for my project.<br>
 <img src="https://github.com/GarveyMak123/Slave-to-the-Algorithm/blob/master/week%205/Open%20Images%20Dataset1.png" width="50%" height="50%"><img src="https://github.com/GarveyMak123/Slave-to-the-Algorithm/blob/master/week%205/Open%20Images%20Dataset2.png" width="50%" height="50%">
