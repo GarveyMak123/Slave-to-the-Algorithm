@@ -20,4 +20,5 @@ The Polish NGO Center Cyfrowe contacted the Variable team to solve the problem o
 
 MIT Media Lab Identity is a stunning idea, a generative logo project that generates unique logos for each faculty, staff, and student. The logos all share the same style of shape and color and are instantly recognizable as part of the MIT Media Lab.<br>
 <img src="https://github.com/GarveyMak123/Slave-to-the-Algorithm/blob/master/week%205/1_FhyRuRd8t7wXWgcMmtOFvw.jpeg" width="50%" height="50%">
-<img src="https://github.com/GarveyMak123/Slave-to-the-Algorithm/blob/master/week%205/1_ewiIgjF42CkpShX_yjiGZA.jpegg" width="50%" height="50%">
+
+<img src="https://github.com/GarveyMak123/Slave-to-the-Algorithm/blob/master/week%205/1_ewiIgjF42CkpShX_yjiGZA.jpeg" width="50%" height="50%">
