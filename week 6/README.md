@@ -18,4 +18,4 @@ https://vimeo.com/323152271#embed<br>
 
 The FUSE* team has always strived to create stories and unique experiences to balance art, science, and technology.
 
-EVERYTHING IN EXISTENCE guides the viewer through a different reality experience, feeling themselves as a part of existence. The work uses a combination of visual and sound. Data from viewer interaction, social networks, and sound is processed in real-time, meaning the work itself is continually changing and ultimately creates a connection with the viewer. From the video, I could feel a sense of mystery moving forward in my brain. I think it's the combination of the visual and the sound of the work that works.
+EVERYTHING IN EXISTENCE guides the viewer through a different reality experience, feeling themselves as a part of existence. The work uses a combination of visual and sound. Data from viewer interaction, social networks, and sound is processed in real-time, meaning the work itself is continually changing and ultimately creates a connection with the viewer. From the video, I could feel a sense of mystery moving forward in my brain. I think it's the impact of the combination of visuals and sound.
