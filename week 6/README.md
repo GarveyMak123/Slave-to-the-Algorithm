@@ -8,3 +8,14 @@ As part of the classroom activity, we worked on a paper prototype to create a 2D
 
 ### p5.js Sound Visualization
 ![](https://github.com/GarveyMak123/Slave-to-the-Algorithm/blob/master/week%206/sound.gif)
+
+### Generative arts：
+
+EVERYTHING IN EXISTENCE<br>
+FUSE*
+![](https://github.com/GarveyMak123/Slave-to-the-Algorithm/blob/master/week%206/zebra.jpg)<br>
+https://vimeo.com/323152271#embed<br>
+
+The FUSE* team has always strived to create stories and unique experiences to balance art, science, and technology.
+
+EVERYTHING IN EXISTENCE guides the viewer through a different reality experience, feeling themselves as a part of existence. The work uses a combination of visual and sound. Data from viewer interaction, social networks, and sound is processed in real-time, meaning the work itself is continually changing and ultimately creates a connection with the viewer. From the video, I could feel a sense of mystery moving forward in my brain, and I think this is a function of the visual and sound combination of the work.
