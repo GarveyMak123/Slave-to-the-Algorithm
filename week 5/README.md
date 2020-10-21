@@ -6,7 +6,7 @@ Today's graphic designers are sometimes embarrassed by clients who don't underst
 My concept so far, has been vague and not specific enough. This week, to continue developing my ideas, I will continue to look at generative design uses in graphic design.
 
 ### Research
-1. Generative Covers
+1.Generative Covers
   
 Team:<br>
 Marcin Ignac / Variable concept + design + code<br>
@@ -15,7 +15,7 @@ Vladimir Kuchinov / Variable design + typography + code + documentation
 The Polish NGO Center Cyfrowe contacted the Variable team to solve the problem of displaying the covers of CC books without a CC license. After getting the book's page count, year of publication, and category, the Variable team converted it into a generative cover. I think it is great about this tool because it is web-based and allows designers to input their data to experiment with covers.<br>
 <img src="https://github.com/GarveyMak123/Slave-to-the-Algorithm/blob/master/week%205/big-letters.png" width="70%" height="70%"><br>
 
-2. MIT Media Lab Identity
+2.MIT Media Lab Identity
 
 MIT Media Lab Identity is a stunning idea, a generative logo project that generates unique logos for each faculty, staff, and student. The logos all share the same style of shape and color and are instantly recognizable as part of the MIT Media Lab.<br>
 <img src="https://github.com/GarveyMak123/Slave-to-the-Algorithm/blob/master/week%205/1_FhyRuRd8t7wXWgcMmtOFvw.jpeg" width="50%" height="50%"><img src="https://github.com/GarveyMak123/Slave-to-the-Algorithm/blob/master/week%205/1_ewiIgjF42CkpShX_yjiGZA.jpeg" width="50%" height="50%">
