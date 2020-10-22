@@ -38,7 +38,7 @@ While thinking about making these text visually impactful, I came up with the Wi
 For more information on how to implement the Starfield effect in processing, I watched [The Coding Train's Coding Challenge #1: The Starry Night in Processing](https://www.youtube.com/watch?v=17WoOqgXsRM&t=3s), as well as downloaded and referenced code from [this page](https://cs.brynmawr.edu/Courses/cs110/spring2016dx/examples/12/starfield/), and [Marco's work in the OpenProcessing](https://www.openprocessing.org/sketch/304221/).
 
 ### Project progress 2
-Based on the previous code, I started making my 'Starfield'.
+Based on the previous code, I started making my ['Starfield'](https://github.com/GarveyMak123/Slave-to-the-Algorithm/tree/master/week%2010/starfield).
 
 Design a star class, which stores hashtag objects, each of which has five attributes, namely the 3D coordinates x, y, z, and color and hashtag string.<br>
 ![](https://github.com/GarveyMak123/Slave-to-the-Algorithm/blob/master/week%2010/1.png)<br>
