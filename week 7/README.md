@@ -34,7 +34,7 @@ IF bitter<br>
    add milk, sugar<br>
 END IF tastes good<br>
 
-Project pseudocode：
+### Project pseudocode：
 
 ```java
 FUNCTION visualization
