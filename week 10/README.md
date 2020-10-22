@@ -7,3 +7,6 @@ However, visualizing this data and communicating my project's meaning is even mo
 ### Project progress
 Based on last week's test, I used the color definitions to define a table where neutral equals color 0, negative equals color 1, and positive equals color 2. These colors are blue (0,0,255), red (255,0,0), and green (0,255,0).<br>
 <img src="https://github.com/GarveyMak123/Slave-to-the-Algorithm/blob/master/week%2010/testdevelop1.png" width="50%" height="50%"><img src="https://github.com/GarveyMak123/Slave-to-the-Algorithm/blob/master/week%2010/testdevelop2.png" width="50%" height="50%">
+
+Since this project's data is based on Twitter, I had the whim to import Twitter logos and display these trends and hashtags in the logos.<br>
+<img src="https://github.com/GarveyMak123/Slave-to-the-Algorithm/blob/master/week%2010/testdevelop1.png" width="50%" height="50%"><img src="https://github.com/GarveyMak123/Slave-to-the-Algorithm/blob/master/week%2010/testdevelop2.png" width="50%" height="50%">
