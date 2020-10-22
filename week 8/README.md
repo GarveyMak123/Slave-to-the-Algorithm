@@ -23,5 +23,5 @@ After applying to become a developer, I started researching how to get data and 
 OFFF Twitter Archive<br>
 Brendan Dawes<br>
 created in 2013<br>
-
+<img src="https://github.com/GarveyMak123/Slave-to-the-Algorithm/blob/master/week%208/000_offf_twitter-1200x1699-q80.jpg" width="70%" height="70%"><br>
 OFFF Twitter Archive is a Twitter archive based on visualizations of Barcelona-based design and art festivals. In this work, over 4000 relevant tweets are recorded and displayed as A1 size posters. This is a special way of recording tweets, which are usually forgotten as time passes after people send tweets. But the OFFF Twitter Archive is fantastic for documenting these relevant tweets in paper form.
