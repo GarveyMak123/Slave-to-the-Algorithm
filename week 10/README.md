@@ -30,3 +30,6 @@ Syver Lauritzen and Eirik Haugen Murvol, 2014 <br>
 <img src="https://github.com/GarveyMak123/Slave-to-the-Algorithm/blob/master/week%2010/Monolitt.png" width="70%" height="70%">
 
 I was inspired by these works, especially 'Monolitt', and I think that the visual impact on the audience is key to my projects. However, these visual impacts need to be restrained. I don't want the audience to be influenced emotionally and be the first to see these trends and hashtags.
+
+While thinking about making these text visually impactful, I came up with the Windows XP Starfield screensaver, which has been etched in my memory since I was a child. When I was little, when the computer at home was in standby mode, these stars started to appear on the screen and kept flying towards me.
+<https://github.com/GarveyMak123/Slave-to-the-Algorithm/blob/master/week%2010/StarfieldSimulation.gif">
