@@ -9,4 +9,6 @@ From this video, I learned that I need to get the Twitter API and import the API
 
 ### Twitter API
 
-The Twitter [DEVELOPER](link-https://developer.twitter.com/en/docs/twitter-api/getting-started/guide) page details how to get the API, so I tried to apply.
+The Twitter [DEVELOPER](https://developer.twitter.com/en/docs/twitter-api/getting-started/guide) page details how to get the API, so I tried to apply.
+
+[Spring-data-jpa 查询  复杂查询陆续完善中](http://www.cnblogs.com/sxdcgaq8080/p/7894828.html)
