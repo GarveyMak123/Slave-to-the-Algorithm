@@ -33,3 +33,6 @@ I was inspired by these works, especially 'Monolitt', and I think that the visua
 
 While thinking about making these text visually impactful, I came up with the Windows XP Starfield screensaver, which has been etched in my memory since I was a child. When I was little, when the computer at home was in standby mode, these stars started to appear on the screen and kept flying towards me.<br>
 ![](https://github.com/GarveyMak123/Slave-to-the-Algorithm/blob/master/week%2010/StarfieldSimulation.gif)
+
+### Research
+For more information on how to implement the Starfield effect in processing, I watched [The Coding Train's Coding Challenge #1: The Starry Night in Processing](https://www.youtube.com/watch?v=17WoOqgXsRM&t=3s), as well as downloaded and referenced code from [this page](https://cs.brynmawr.edu/Courses/cs110/spring2016dx/examples/12/starfield/), and [Marco's work in the OpenProcessing](https://www.openprocessing.org/sketch/304221/).
