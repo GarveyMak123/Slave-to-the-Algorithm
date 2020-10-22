@@ -25,7 +25,7 @@ https://www.danieldavis.com/generative-design-doomed-to-fail/<br>
 I found the article "Generative Design is Doomed to Fail" to be a cautionary tale after reading the article. Author Daniel Davis attacks the fact that generative design creates hundreds of different proposal options, which increases the time and cost of making comparisons and choices.
 
 ## A tool
-Inspired by Daniel Davis' article, I think it would be painful for a designer to have to choose between, for example, the MIT Media Lab Identity logo in a project to come up with a result.
+Inspired by Daniel Davis' article, I think it would be painful for the designer to choose from many samples. Hypothetically, it would be complicated to select a logo from the MIT Media Lab Identity because the logos are very similar.
 
 Therefore, my project is not a direct result for the designer to choose from, as I fear this will be counterproductive, defeating helping designers be more efficient. My project's final concept is to create a tool that allows the designer to input images, text, and finally generate a poster or logo as a preview that will serve as inspiration for the designer.
 
