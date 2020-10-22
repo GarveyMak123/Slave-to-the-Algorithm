@@ -14,3 +14,10 @@ While looking for ways to get data on Twitter trends, hashtags, and sentiment in
 By Googling Twitter trending, I discovered that [trends24](https://trends24.in/) and [getdaytrends](https://getdaytrends.com/2020-09-24/12/) provide real-time Twitter trending topics and hashtags around the world. So I decided to record these trends and topic hashtags one by one in Excel. Finally, I recorded 48 trends and hashtags.<br>
 <img src="https://github.com/GarveyMak123/Slave-to-the-Algorithm/blob/master/week%209/trend.png" width="50%" height="50%"><img src="https://github.com/GarveyMak123/Slave-to-the-Algorithm/blob/master/week%209/trend%26hashtags.png" width="30%" height="30%">
 
+#### Sentiment analysis
+
+After getting data on trends and hashtags, I searched for social media sentiment analysis tools in Google. Fortunately, I found [social-searcher](https://www.social-searcher.com/) and [tweet_viz](https://www.csc2.ncsu.edu/faculty/healey/tweet_viz/tweet_app/). These two tools can analyze the sentiment of tweets related to hashtags and trends.<br>
+<img src="https://github.com/GarveyMak123/Slave-to-the-Algorithm/blob/master/week%209/tweet_viz.png" width="80%" height="80%"><img src="https://github.com/GarveyMak123/Slave-to-the-Algorithm/blob/master/week%209/social-searcher.png" width="80%" height="80%"><br>
+I searched the 48 trends and hashtags one by one in a manual manner, and after analyzing the sentiments within them, I came up with positive, negative, and neutral sentiments. Next, the relevant tweets were browsed on Twitter to verify the accuracy of the sentiment. Finally, the results are recorded in Excel.
+
+<img src="https://github.com/GarveyMak123/Slave-to-the-Algorithm/blob/master/week%209/emotion.png" width="30%" height="30%">
