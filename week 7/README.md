@@ -33,3 +33,27 @@ INPUT coffee powder<br>
 IF bitter<br>
    add milk, sugar<br>
 END IF tastes good<br>
+
+Project pseudocode：
+
+```java
+FUNCTION visualization
+
+
+INPUT data
+OUTPUT visualization
+
+IF emotion1
+    color 1
+    visualization 1
+
+IF emotion 2
+    color 2
+    visualization 2
+
+IF emotion 3
+    color 3
+    visualization 3
+
+END IF
+```
