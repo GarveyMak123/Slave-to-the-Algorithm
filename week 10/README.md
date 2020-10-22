@@ -9,4 +9,4 @@ Based on last week's test, I used the color definitions to define a table where 
 <img src="https://github.com/GarveyMak123/Slave-to-the-Algorithm/blob/master/week%2010/testdevelop1.png" width="50%" height="50%"><img src="https://github.com/GarveyMak123/Slave-to-the-Algorithm/blob/master/week%2010/testdevelop2.png" width="50%" height="50%">
 
 Since this project's data is based on Twitter, I had the whim to import Twitter logos and display these trends and hashtags in the logos.<br>
-<img src="https://github.com/GarveyMak123/Slave-to-the-Algorithm/blob/master/week%2010/testdevelop1.png" width="50%" height="50%"><img src="https://github.com/GarveyMak123/Slave-to-the-Algorithm/blob/master/week%2010/testdevelop2.png" width="50%" height="50%">
+<img src="https://github.com/GarveyMak123/Slave-to-the-Algorithm/blob/master/week%2010/twitter.png" width="50%" height="50%"><img src="https://github.com/GarveyMak123/Slave-to-the-Algorithm/blob/master/week%2010/twitter2.png" width="50%" height="50%">
