@@ -12,4 +12,4 @@ From this video, I learned that I need to get the Twitter API and import the API
 The Twitter [DEVELOPER](https://developer.twitter.com/en/docs/twitter-api/getting-started/guide) page details how to get the API, so I tried to apply.
 
 <img src="https://github.com/GarveyMak123/Slave-to-the-Algorithm/blob/master/week%208/api2.png" width="50%" height="50%"><br>
-
+<img src="https://github.com/GarveyMak123/Slave-to-the-Algorithm/blob/master/week%208/api1.jpg" width="50%" height="50%">
