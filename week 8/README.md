@@ -14,3 +14,7 @@ The Twitter [DEVELOPER](https://developer.twitter.com/en/docs/twitter-api/gettin
 <img src="https://github.com/GarveyMak123/Slave-to-the-Algorithm/blob/master/week%208/api2.png" width="50%" height="50%"><br>
 <img src="https://github.com/GarveyMak123/Slave-to-the-Algorithm/blob/master/week%208/api1.jpg" width="50%" height="50%"><br>
 After applying to become a developer, I started researching how to get data and analyze sentiment.
+
+[In this tutorial](https://www.geeksforgeeks.org/twitter-sentiment-analysis-using-python/), I thought I had covered how to do sentiment analysis of tweets in great detail. But I realized that I need to learn Python because these tutorials are completely incomprehensible to me, and it feels like food is already on the table waiting for me to enjoy it, but I don't know how to eat it...
+
+<img src="https://github.com/GarveyMak123/Slave-to-the-Algorithm/blob/master/week%208/Twitter%20Sentiment%20Analysis%20using%20Python.png" width="50%" height="50%"><br>
