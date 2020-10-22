@@ -18,3 +18,10 @@ After applying to become a developer, I started researching how to get data and 
 [In this tutorial](https://www.geeksforgeeks.org/twitter-sentiment-analysis-using-python/), I thought I had covered how to do sentiment analysis of tweets in great detail. But I realized that I need to learn Python because these tutorials are completely incomprehensible to me, and it feels like food is already on the table waiting for me to enjoy, but I don't know how to eat it...
 
 <img src="https://github.com/GarveyMak123/Slave-to-the-Algorithm/blob/master/week%208/Twitter%20Sentiment%20Analysis%20using%20Python.png" width="70%" height="70%"><br>
+
+### Social media themed artworks
+OFFF Twitter Archive<br>
+Brendan Dawes<br>
+created in 2013<br>
+
+OFFF Twitter Archive is a Twitter archive based on visualizations of Barcelona-based design and art festivals. In this work, over 4000 relevant tweets are recorded and displayed as A1 size posters. This is a special way of recording tweets, which are usually forgotten as time passes after people send tweets. But the OFFF Twitter Archive is fantastic for documenting these relevant tweets in paper form.
