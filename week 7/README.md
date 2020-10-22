@@ -16,4 +16,4 @@ Today, with algorithms, people only see what they want to see. For example, I st
 
 Regarding the emotions that abound under trends and hashtags, even though users don't start from a desire to influence others in social media, they just want to give their opinion on things or people. But in social media, often emotionally charged tweets are the most contagious, and usually popular tweets are emotionally charged. Combined with these factors, people are easily influenced by opinions and emotions, directly or indirectly influencing their judgments about things or people.
 
-herefore, the concept of my project visualizes the emotions of Twitter trends and hashtags. To inspire people to take a dispassionate look at trends and hashtags in social media and think and research things independently. Through research, we will get closer to the truth, won't we?
+Therefore, the concept of my project is to visualize the emotions of Twitter trends and hashtags. To inspire people to take a dispassionate look at trends and hashtags in social media and think and research things independently. Through research, we will get closer to the truth, won't we?
