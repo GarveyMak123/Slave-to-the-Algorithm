@@ -21,3 +21,6 @@ After getting data on trends and hashtags, I searched for social media sentiment
 I searched the 48 trends and hashtags one by one in a manual manner, and after analyzing the sentiments within them, I came up with positive, negative, and neutral sentiments. Next, the relevant tweets were browsed on Twitter to verify the accuracy of the sentiment. Finally, the results are recorded in Excel.
 
 <img src="https://github.com/GarveyMak123/Slave-to-the-Algorithm/blob/master/week%209/emotion.png" width="30%" height="30%">
+
+#### Import data in processing
+[In this tutorial](https://conorblack.wordpress.com/2014/03/23/export-import-processing-excel-xlsx/), I learned how to import Excel in processing.
