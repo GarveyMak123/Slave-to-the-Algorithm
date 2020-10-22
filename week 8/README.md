@@ -11,4 +11,4 @@ From this video, I learned that I need to get the Twitter API and import the API
 
 The Twitter [DEVELOPER](https://developer.twitter.com/en/docs/twitter-api/getting-started/guide) page details how to get the API, so I tried to apply.
 
-[Spring-data-jpa 查询  复杂查询陆续完善中](http://www.cnblogs.com/sxdcgaq8080/p/7894828.html)
+<img src="https://github.com/GarveyMak123/Slave-to-the-Algorithm/blob/master/week%208/The%20Coding%20Train.png" width="90%" height="90%"><br>
