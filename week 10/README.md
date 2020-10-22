@@ -10,3 +10,21 @@ Based on last week's test, I used the color definitions to define a table where 
 
 Since this project's data is based on Twitter, I had the whim to import Twitter logos and display these trends and hashtags in the logos.<br>
 <img src="https://github.com/GarveyMak123/Slave-to-the-Algorithm/blob/master/week%2010/twitter.png" width="50%" height="50%"><img src="https://github.com/GarveyMak123/Slave-to-the-Algorithm/blob/master/week%2010/twitter2.png" width="30%" height="30%">
+
+But I immediately regretted it, because it seemed so stupid. So I started working on some artwork for emotional visualization. I hope to get some inspiration from these works.
+
+
+### Emotional visualization artwork
+
+1.Amygdala<br>
+The Fuse Studio<br>
+CUBO Centro Unipol in Bologna, Italy<br>
+
+"Amygdala" processes 30 tweets per second and transforms them into six emotions: happiness, anger, sadness, disgust, surprise, or fear. These emotions are shown through sound textures.<br>
+<img src="https://github.com/GarveyMak123/Slave-to-the-Algorithm/blob/master/week%2010/Amygdala.jpg" width="70%" height="70%">
+
+2.Monolitt<br>
+Syver Lauritzen and Eirik Haugen Murvol, 2014 <br>
+
+"Monolitt", was created by analyzing the emotions in local social media and assigning them to corresponding colors of paint. Use the corresponding paint to create a map of social media activity.<br>
+<img src="https://github.com/GarveyMak123/Slave-to-the-Algorithm/blob/master/week%2010/Monolitt.png" width="70%" height="70%">
