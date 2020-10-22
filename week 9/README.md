@@ -23,5 +23,5 @@ I searched the 48 trends and hashtags one by one in a manual manner, and after a
 <img src="https://github.com/GarveyMak123/Slave-to-the-Algorithm/blob/master/week%209/emotion.png" width="30%" height="30%">
 
 #### Import data in processing
-[In this tutorial](https://conorblack.wordpress.com/2014/03/23/export-import-processing-excel-xlsx/), I learned how to import Excel in processing. And test Visualization.<br>
+[In this tutorial](https://conorblack.wordpress.com/2014/03/23/export-import-processing-excel-xlsx/), I learned how to import Excel in processing. And [test Visualization](https://github.com/GarveyMak123/Slave-to-the-Algorithm/tree/master/week%209/ImportExportExcel).<br>
 <img src="https://github.com/GarveyMak123/Slave-to-the-Algorithm/blob/master/week%209/import1.png" width="80%" height="80%"><img src="https://github.com/GarveyMak123/Slave-to-the-Algorithm/blob/master/week%209/import2.png" width="80%" height="80%"><br>
