@@ -57,3 +57,8 @@ IF emotion 3
 
 END IF
 ```
+### RandomLetter
+<img src="https://github.com/GarveyMak123/Slave-to-the-Algorithm/blob/master/week%207/randomLetter.png" width="90%" height="90%">
+
+### WigglyLetters
+![](https://github.com/GarveyMak123/Slave-to-the-Algorithm/blob/master/week%207/WrigglyType.gif)
