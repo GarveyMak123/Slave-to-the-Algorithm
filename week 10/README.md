@@ -36,3 +36,5 @@ While thinking about making these text visually impactful, I came up with the Wi
 
 ### Research
 For more information on how to implement the Starfield effect in processing, I watched [The Coding Train's Coding Challenge #1: The Starry Night in Processing](https://www.youtube.com/watch?v=17WoOqgXsRM&t=3s), as well as downloaded and referenced code from [this page](https://cs.brynmawr.edu/Courses/cs110/spring2016dx/examples/12/starfield/), and [Marco's work in the OpenProcessing](https://www.openprocessing.org/sketch/304221/).
+
+### Project progress2
