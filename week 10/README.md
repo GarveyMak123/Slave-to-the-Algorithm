@@ -39,3 +39,12 @@ For more information on how to implement the Starfield effect in processing, I w
 
 ### Project progress 2
 Based on the previous code, I started making my 'Starfield'.
+
+Design a star class, which stores hashtag objects, each of which has five attributes, namely the 3D coordinates x, y, z, and color and hashtag string.<br>
+![](https://github.com/GarveyMak123/Slave-to-the-Algorithm/blob/master/week%2010/1.png)<br>
+
+Each object has two additional functions: update and display. update is used to update the z-axis coordinates of each object, allowing the object to move forward in three dimensions. display is used to display the strings in their own specific mood colors.<br>
+![](https://github.com/GarveyMak123/Slave-to-the-Algorithm/blob/master/week%2010/2.png)<br>
+
+P3D draws in 3D, using a 1D array to store objects, and an update function in the main program to give each object its own update and display.<br>
+<img src="https://github.com/GarveyMak123/Slave-to-the-Algorithm/blob/master/week%2010/3.png" width="70%" height="70%"><br>
