@@ -48,3 +48,5 @@ Each object has two additional functions: update and display. update is used to 
 
 P3D draws in 3D, using a 1D array to store objects, and an update function in the main program to give each object its own update and display.<br>
 <img src="https://github.com/GarveyMak123/Slave-to-the-Algorithm/blob/master/week%2010/3.png" width="70%" height="70%"><br>
+
+![](https://github.com/GarveyMak123/Slave-to-the-Algorithm/blob/master/week%2010/Starfield.gif)
