@@ -1,6 +1,6 @@
 # WEEK 1
 
-On holiday, I watched some videos on ui and ux. The advice in the videos was that learning ui requires some programming base. The designer in one of the videos mentioned the concept of generative design. This course will be my introduction to Generative Design.
+On holiday, I watched some videos on UI and UX. The advice in the videos was that learning UI requires some programming base. The designer in one of the videos mentioned the concept of generative design. This course will be the beginning of my journey into generative design learning.
 
 ### Group Activity
 
