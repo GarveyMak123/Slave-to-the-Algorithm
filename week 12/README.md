@@ -32,3 +32,16 @@ Set fonts:<br>
 <img src="https://github.com/GarveyMak123/Slave-to-the-Algorithm/blob/master/week%2012/setfont2.png" width="70%" height="70%"><br>
 
 <img src="https://github.com/GarveyMak123/Slave-to-the-Algorithm/blob/master/week%2012/Color%26font.png" width="70%" height="70%"><br>
+
+#### BGM
+After finishing the fonts and colors, I considered using sound effects to add to the project Starfield atmosphere. I wanted to add some spatial music for the sound effects that would make the audience feel as if they were in space and filled with tranquility.
+
+In [Bensound](https://www.bensound.com/royalty-free-music/track/slow-motion), I found the music I was looking for, called Slow Motion, which is royalty-free. The author is Benjamin Tissot (also known as Bensound). I needed to cite sources in the project.<br>
+<img src="https://github.com/GarveyMak123/Slave-to-the-Algorithm/blob/master/week%2012/Bensound.png" width="70%" height="70%"><br>
+
+While importing the music using libraries Sound, I have a problem. The sound was Very noisy, and after checking the code, it was still not resolved. Eventually, in [Curtis's processing: how to play music using minim](https://www.youtube.com/watch?v=LsADo2gcPWE), I learned how to use the minim library to import music and solve the problem.<br>
+<img src="https://github.com/GarveyMak123/Slave-to-the-Algorithm/blob/master/week%2012/Minim%20library%20.png" width="70%" height="70%"><br>
+
+### Starfield Video<br>
+https://www.youtube.com/watch?v=NTVio4t7d5k
+
