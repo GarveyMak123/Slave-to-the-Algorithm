@@ -17,4 +17,18 @@ Regarding the color of neutral emotions, white is the most neutral of all colors
 About the negative colors. The effective use of colors for negative emotions is found in the paintings of Pablo Picasso, who painted in monochromatic blue between 1901 and 1904, which reflected his depressed state of mind. Therefore, I think it is a good idea to choose blue as a negative mood.<br>
 <img src="https://github.com/GarveyMak123/Slave-to-the-Algorithm/blob/master/week%2012/46671-primary-0-nativeres.ptif.jpg" width="50%" height="50%"><br> 
 ###### Pablo Picasso, The Tragedy, 1903, oil on wood, 105.3 x 69 cm (41 7/16 x 27 3/16 in.)<br>
+***
+In Processing, I changed the colors—Orange for positive, neutral for white, and negative for blue. To be able to see these trends and labels clearly, I added transparency to the colors.<br>
 
+<img src="https://github.com/GarveyMak123/Slave-to-the-Algorithm/blob/master/week%2012/colorchange.png" width="70%" height="70%">
+
+Set fonts:<br>
+* Neutral: HELVETICA<br>
+* Negative: Impact<br>
+* Positive: Manrope<br>
+
+<img src="https://github.com/GarveyMak123/Slave-to-the-Algorithm/blob/master/week%2012/setfont1.png" width="70%" height="70%">
+
+<img src="https://github.com/GarveyMak123/Slave-to-the-Algorithm/blob/master/week%2012/setfont2.png" width="70%" height="70%"><br>
+
+<img src="https://github.com/GarveyMak123/Slave-to-the-Algorithm/blob/master/week%2012/Color%26font.png" width="70%" height="70%"><br>
