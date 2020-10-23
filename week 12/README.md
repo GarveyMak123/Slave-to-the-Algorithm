@@ -42,6 +42,6 @@ In [Bensound](https://www.bensound.com/royalty-free-music/track/slow-motion), I 
 While importing the music using libraries Sound, I have a problem. The sound was very noisy, and after checking the code, it was still not resolved. Eventually, in [Curtis's processing: how to play music using minim](https://www.youtube.com/watch?v=LsADo2gcPWE), I learned how to use the minim library to import music and solve the problem.<br>
 <img src="https://github.com/GarveyMak123/Slave-to-the-Algorithm/blob/master/week%2012/Minim%20library%20.png" width="70%" height="70%"><br>
 
-### Starfield Video<br>
+### [Starfield](https://github.com/GarveyMak123/Slave-to-the-Algorithm/tree/master/week%2012/excelstarfield) Video<br>
 https://www.youtube.com/watch?v=NTVio4t7d5k
 
