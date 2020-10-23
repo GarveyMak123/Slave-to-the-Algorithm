@@ -41,7 +41,7 @@ In my project, HELVETICA will play to its strengths: no decoration, no emotion, 
 
 ### Positive:<br>
 Regarding font choices for positive emotions, in [The Psychology of Fonts (Fonts That Evoke Emotion)](https://design.tutsplus.com/articles/the-psychology-of-fonts--cms-34943), I learned that this is a friendly choice for positive emotions due to the Sans Serif's friendly psychological association font.<br>
-<img src="https://github.com/GarveyMak123/Slave-to-the-Algorithm/blob/master/week%2011/Sans%20Serifs.png" width="70%" height="70%"><br>
+<img src="https://github.com/GarveyMak123/Slave-to-the-Algorithm/blob/master/week%2011/Sans%20Serifs.png" width="50%" height="50%"><br>
 
 While searching for the right Sans Serif font, I found Manrope. The style of this one is lively and not overdone. I was immediately attracted to the font's relaxed and lively style, especially when it displays curved letters, especially the word 'ground.' Thanks to Mikhail Sharanda for the design and open source. [This is the font's GitHub page.](https://github.com/sharanda/manrope)
 <img src="https://github.com/GarveyMak123/Slave-to-the-Algorithm/blob/master/week%2011/Manrope.png"><br>
