@@ -17,12 +17,12 @@
 
 [Week 8](https://github.com/GarveyMak123/Slave-to-the-Algorithm/tree/master/week%208) <br>
 
-[Week 9](https://github.com/GarveyMak123/Slave-to-the-Algorithm/tree/master/week%209): Milestone <br>
+[Week 9: Milestone](https://github.com/GarveyMak123/Slave-to-the-Algorithm/tree/master/week%209) <br>
 
-Week 10 <br>
+[Week 10](https://github.com/GarveyMak123/Slave-to-the-Algorithm/tree/master/week%2010) <br>
 
-Week 11 <br>
+[Week 11](https://github.com/GarveyMak123/Slave-to-the-Algorithm/tree/master/week%2011) <br>
 
-Week 12 <br>
+[Week 12](https://github.com/GarveyMak123/Slave-to-the-Algorithm/tree/master/week%2012) <br>
 
-Week 12: Project Introduction & Reflection <br>
+[Week 12: Project Introduction & Reflection](https://github.com/GarveyMak123/Slave-to-the-Algorithm/tree/master/week%2012:%20Project%20Introduction%20%26%20Reflection) <br>
