@@ -14,7 +14,7 @@ This week, I need to research fonts, colors, and sound effects. Also, the result
 
 I'm confused about how fonts play successfully in my projects. Even though I want to have some visual impact, I need to exercise restraint so that I don't overdo it. So I started researching fonts.
 
-#### Negative：<br>
+### Negative：<br>
 In [Fonts & Feelings: Does Typography Connote Emotions?](https://blog.hubspot.com/marketing/typography-emotions) I found that the Impact font is very applicable to the trends and labels of negative emotions in projects. <br>
 
 First, the impact font has the following characteristics:<br>
@@ -28,7 +28,7 @@ First, the impact font has the following characteristics:<br>
 Secondly, the impact font has a heavy feel to it, and the squeezing between the letters can create some tension. I think it's possible to make the viewer aware of this and realize that it could be negative. Here is my simulation in illustrate.<br>
 <img src="https://github.com/GarveyMak123/Slave-to-the-Algorithm/blob/master/week%2011/impacttest.png" width="70%" height="70%"><br>
 
-#### Neutral:<br>
+### Neutral:<br>
 
 Regarding the choice of fonts for neutral emotions, I don't think fonts reflect emotions. However, I immediately thought of HELVETICA as one of the most popular fonts in the world. HELVETICA is arguably everywhere, from slogans to company logos.<br>
 <img src="https://github.com/GarveyMak123/Slave-to-the-Algorithm/blob/master/week%2011/HELVETICA.png" width="50%" height="50%"><br>
@@ -39,7 +39,7 @@ source：https://99designs.com.au/blog/creative-inspiration/famous-logos-made-wi
 In my project, HELVETICA will play to its strengths: no decoration, no emotion, just a clear presentation of information. In the test, HELVETICA seemed to be quietly narrating a story.<br>
 <img src="https://github.com/GarveyMak123/Slave-to-the-Algorithm/blob/master/week%2011/HELVETICAtest.png" width="50%" height="50%"><br>
 
-#### Positive:<br>
+### Positive:<br>
 Regarding font choices for positive emotions, in [The Psychology of Fonts (Fonts That Evoke Emotion)](https://design.tutsplus.com/articles/the-psychology-of-fonts--cms-34943), I learned that this is a friendly choice for positive emotions due to the Sans Serif's friendly psychological association font.<br>
 <img src="https://github.com/GarveyMak123/Slave-to-the-Algorithm/blob/master/week%2011/Sans%20Serifs.png" width="70%" height="70%"><br>
 
